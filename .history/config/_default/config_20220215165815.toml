@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://liuzixu-aurelio.github.io/blog/"
+baseURL = "https://liuzixu-aurelio.github.io/liuzixu.github.io/"
 title = "Liu Zixu"
 theme = "techfeed-hugo"
 # post pagination
