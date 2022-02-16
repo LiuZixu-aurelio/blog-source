@@ -3,7 +3,7 @@ title: "MEMORIES FROM LAST SUMMER"
 date: 2021-07-14T15:06:41+06:00
 image: "images/02.jpg"
 featured: false
-categories: ["Arts & Culture"]
+categories: ["设计"]
 draft: false
 ---
 

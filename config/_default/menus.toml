@@ -3,43 +3,43 @@
 # main menu
 
 [[main]]
-name = "home"
+name = "首页"
 url = ""
 weight = 1
 
 [[main]]
-name = "about"
+name = "关于我"
 url = "about/"
 weight = 2
 
 [[main]]
-name = "category"
+name = "目录"
 url = "categories/"
 weight = 3
 
 [[main]]
-name = "contact"
+name = "联系我"
 url = "contact/"
 weight = 5
 
 [[main]]
-name = "blog"
+name = "文章"
 url = "blog/"
 weight = 4
 
 # dropdown menu
 [[main]]
-name = "Pages"
+name = "项目"
 weight = 6
 hasChildren = true
 
   # dropdown item
   [[main]]
-  parent = "Pages"
-  name = "page 1"
+  parent = "项目"
+  name = "项目一"
   url = "/"
 
   [[main]]
-  parent = "Pages"
-  name = "page 2"
+  parent = "项目"
+  name = "项目二"
   url = "/"

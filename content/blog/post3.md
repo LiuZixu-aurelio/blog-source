@@ -3,7 +3,7 @@ title: "FINDING LOVE AND ROMANCE ON THE ROAD"
 date: 2021-07-14T15:06:48+06:00
 image: "images/03.jpg"
 featured: false
-categories: ["Development"]
+categories: ["开发"]
 draft: false
 ---
 

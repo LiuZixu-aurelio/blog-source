@@ -1,5 +1,5 @@
 ---
-title: "I am Emma, A content writer based in LDN, currently at Bookworm."
+title: "hello, 我是刘子煦."
 image: "images/about.jpg"
 description: "this is meta description"
 layout: "about"

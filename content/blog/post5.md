@@ -3,7 +3,7 @@ title: "What else do we need to make this a success?"
 date: 2021-07-15T15:41:01+06:00
 image: "images/02.jpg"
 featured: false
-categories: ["Fashion"]
+categories: ["成长"]
 draft: false
 ---
 
